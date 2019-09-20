@@ -1,4 +1,3 @@
-var geel
 var geel = prompt("Is de kaas geel? [ja of nee]")
 if (geel == "ja") {
     const gaten = prompt("Zitten er gaten in? [ja of nee]")
